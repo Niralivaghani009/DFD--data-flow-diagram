@@ -1,2 +1,2 @@
-# DFD--data-flow-diagram
+# DFD-data-flow-diagram
 Example of DFD
